@@ -43,11 +43,11 @@
   "social": [
     {
       "icon": "FaInstagram",
-      "link": "https://instagram.com"
+      "link": "#"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com"
+      "link": "#"
     }
   ]
 }
