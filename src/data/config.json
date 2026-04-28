@@ -20,16 +20,23 @@
       "project-link": "https://nawandi-tishk.vercel.app/"
     },
     {
-      "project-name": "freshcutgo",
+      "project-name": "freshcutgo - UK barber",
       "project-desc": "",
       "project-image-url": "/images/project3.jpg",
       "project-link": "https://freshcutgo.uk/"
     },
 
-     {
-      "project-name": "get to know me",
+    {
+      "project-name": "golden hand - final Student project",
       "project-desc": "",
       "project-image-url": "/images/project4.jpg",
+      "project-link": "https://webconstruction-h8gd.vercel.app/"
+    },
+
+    {
+      "project-name": "get to know me",
+      "project-desc": "",
+      "project-image-url": "/images/project5.jpg",
       "project-link": "https://ahmad-sabah.vercel.app/"
     }
   ],
