@@ -32,7 +32,12 @@
       "project-image-url": "/images/project4.jpg",
       "project-link": "https://webconstruction-h8gd.vercel.app/"
     },
-
+    {
+      "project-name": "mamsik - still working on it",
+      "project-desc": "",
+      "project-image-url": "/images/project6.jpg",
+      "project-link": "https://mamsik.vercel.app/"
+    },
     {
       "project-name": "get to know me",
       "project-desc": "",
